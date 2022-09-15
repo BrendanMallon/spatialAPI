@@ -1,1 +1,1 @@
-# spatialAPI
+# spatialStructure
